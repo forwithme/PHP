@@ -1,4 +1,4 @@
 <?php
-echo 122222;
+echo 'hello world ';
 
 ?>
